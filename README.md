@@ -89,7 +89,5 @@ URL:https://tr.wikipedia.org/wiki/Fotoelektrik_etkisi***
 ***Wikipedia. "Foto transistör." [20/03/2023]. URL:https://tr.wikipedia.org/wiki/Foto_transist%C3
 %B6r***
 
-***Wikipedia. "Soğurma (fizik)." [20/03/2023]. URL:https://tr.wikipedia.org/wiki/So%C4%9Furma_ (fizik)
-![image](https://github.com/ozkanyav/Service-Robot/assets/130536792/791a2d5c-ba45-40df-b16d-4de93f0581d3)***
-
+***Wikipedia. "Soğurma (fizik)." [20/03/2023]. URL:https://tr.wikipedia.org/wiki/So%C4%9Furma_ (fizik)***
 
