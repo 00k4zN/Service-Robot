@@ -17,9 +17,10 @@ The significance of this project lies in the reduction of workload and the decre
 The service robot enhances efficiency in operations and brings a systematic approach to workflow processes.
 -------------------------------------------------------------------------------------------------------------
 
-![Ana Sayfa](https://github.com/ozkanyav/Service-Robot/blob/main/Images/Image1.jpg)
+![image1](https://github.com/ozkanyav/Service-Robot/blob/main/Images/Image1.jpg)
 
-***Method***
+<h1>Method</h1>
+
 Design and Manufacturing of the Service Robot:
 -------------------------------------------------------------------------------------------------------------
 The design of the line-following service robot was completed. 
@@ -46,7 +47,7 @@ The developed service robot underwent evaluation through tests conducted in a la
 Its line tracking capability, obstacle detection, and motion control performance were assessed. 
 The robot's success in fulfilling its intended task was evaluated.
 
-![Ana Sayfa](https://github.com/ozkanyav/Service-Robot/blob/main/Images/Image2.jpg)
+![image2](https://github.com/ozkanyav/Service-Robot/blob/main/Images/Image2.jpg)
 
 Results:
 -------------------------------------------------------------------------------------------------------------
@@ -60,7 +61,7 @@ When an obstacle was detected 20 cm in front of the robot, the HC-SR04 ultrasoni
 
 A hand gesture made at a distance of 5 cm from the distance sensor was interpreted as a command to continue the robot's movement.
 
-![Ana Sayfa](https://github.com/ozkanyav/Service-Robot/blob/main/Images/Image3.jpg)
+![image3](https://github.com/ozkanyav/Service-Robot/blob/main/Images/Image3.png)
 
 Assessment:
 -------------------------------------------------------------------------------------------------------------
