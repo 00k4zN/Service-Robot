@@ -1,4 +1,5 @@
-***Summary and Introduction***
+<h1>Summary and Introduction</h1>
+
 The project aims to develop a service robot equipped with line-following capability. 
 The robot will track lines to transport trays, whether empty or filled, placed on shelves to the dishwashing area.
 -------------------------------------------------------------------------------------------------------------
